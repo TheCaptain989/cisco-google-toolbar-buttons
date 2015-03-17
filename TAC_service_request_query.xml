@@ -29,5 +29,5 @@ L////////////////////////////4FmL///////////////////////////////////////////
 ////AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA
 //8AAP//AAD//w==
     </icon>
-  <update xmlns=""/>http://cisco-google-toolbar-buttons.googlecode.com/files/TAC_service_request_query.xml</button>
+  <update xmlns=""/>https://raw.githubusercontent.com/TheCaptain989/cisco-google-toolbar-buttons/master/TAC_service_request_query.xml</button>
 </custombuttons>
